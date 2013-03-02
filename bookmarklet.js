@@ -1,0 +1,1 @@
+javascript: (function(){var s=document.createElement('script');s.src='https://raw.github.com/jcla1/bombermine_gamepad/master/gamepad.min.js';document.body.appendChild(s);})()
