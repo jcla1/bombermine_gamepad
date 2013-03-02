@@ -10,12 +10,12 @@ I used a Sixaxis controller from Sony/PS3, should work with XBox controller too 
 
 ## Controls
 
-Move                 -> left joystick
-Drop Bomb            -> cross
-Zoom out             -> circle
-Pause                -> triangle
-Detonate Radio Bombs -> square
-Show stats           -> select
+Move                 -> left joystick<br>
+Drop Bomb            -> cross<br>
+Zoom out             -> circle<br>
+Pause                -> triangle<br>
+Detonate Radio Bombs -> square<br>
+Show stats           -> select<br>
 
 # License
 
